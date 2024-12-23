@@ -1,5 +1,9 @@
+'use client';
+
 import { motion } from 'framer-motion';
 import Image from 'next/image';
+
+console.log(motion); 
 
 export default function About() {
   const events = [
