@@ -31,7 +31,7 @@ function HeroSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-4xl md:text-6xl font-bold mb-4"
           >
-            Welcome to GeeksforGeeks Chapter
+            Welcome to GeeksforGeeks PDEU Student Chapter
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -64,7 +64,7 @@ function AchievementsSection() {
 
   const achievements = [
     { title: "1000+ Members", description: "Growing community of tech enthusiasts", icon: "👥" },
-    { title: "50+ Events", description: "Workshops, hackathons, and tech talks", icon: "🎉" },
+    { title: "20+ Events", description: "Workshops, hackathons, and tech talks", icon: "🎉" },
     { title: "100+ Projects", description: "Innovative solutions developed by our members", icon: "💡" },
   ]
 

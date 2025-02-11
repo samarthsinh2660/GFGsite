@@ -6,14 +6,12 @@ import { useInView } from 'react-intersection-observer'
 
 const teamMembers = [
   {
-    name: 'John Doe',
+    name: 'Archie shah',
     role: 'President',
-    image: '/placeholder.svg?height=300&width=300',
+    image: '/images/archie-shah.jpeg',
     bio: 'Computer Science enthusiast with a passion for AI and machine learning.',
     social: {
-      linkedin: 'https://linkedin.com',
-      github: 'https://github.com',
-      twitter: 'https://twitter.com'
+      linkedin: 'https://www.linkedin.com/in/aarchishah/'
     }
   },
   {

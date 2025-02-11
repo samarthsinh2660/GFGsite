@@ -11,7 +11,7 @@ export default function Header() {
     <header className="bg-[#0f9d58] text-white">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          GeeksforGeeks Chapter
+          GFG PDEU Student Chapter
         </Link>
         <nav className="hidden md:flex space-x-4">
           <NavLink href="/">Home</NavLink>

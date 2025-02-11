@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ['latin'] });
 const poppins = Poppins({ weight: ['400', '600', '700'], subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Geeks for Geeks Student Chapter',
-  description: 'Geeks for Geeks Student Chapter Website',
+  title: 'GFG PDEU Student Chapter',
+  description: 'Geeks for Geeks PDEU Student Chapter Website',
 };
 
 export default function RootLayout({

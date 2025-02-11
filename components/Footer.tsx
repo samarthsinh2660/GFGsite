@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-xl font-bold mb-2">GeeksforGeeks Chapter</h3>
+            <h3 className="text-xl font-bold mb-2">GFG PDEU Student Chapter</h3>
             <p className="text-sm">Empowering students through technology and knowledge sharing.</p>
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} GeeksforGeeks Chapter. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} GFG PDEU Student Chapter. All rights reserved.</p>
         </div>
       </div>
     </footer>
