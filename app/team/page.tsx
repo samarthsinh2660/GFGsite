@@ -15,9 +15,9 @@ const teamMembers = [
     }
   },
   {
-    name: 'Jane Smith',
+    name: 'Prayag Thaker',
     role: 'Vice President',
-    image: '/placeholder.svg?height=300&width=300',
+    image: '/images/prayag.jpeg',
     bio: 'Full-stack developer and open-source contributor.',
     social: {
       linkedin: 'https://linkedin.com',
@@ -26,30 +26,50 @@ const teamMembers = [
     }
   },
   {
-    name: 'Mike Johnson',
-    role: 'Technical Lead',
-    image: '/placeholder.svg?height=300&width=300',
-    bio: 'Cybersecurity expert and competitive programmer.',
+    name: 'Mann Patel',
+    role: 'Technical Head',
+    image: '/images/mann.jpg',
+    bio: 'Passion for innovations in technology and mathematics behind ML.',
     social: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com'
     }
   },
   {
-    name: 'Emily Brown',
-    role: 'Event Coordinator',
+    name: 'Aarav Desai',
+    role: 'Technical Head',
+    image: '/images/aarav.jpg',
+    bio: 'Passionate tinkerer with the love for AI and ML.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    name: 'Shrey Bansal',
+    role: 'Technical Head',
     image: '/placeholder.svg?height=300&width=300',
-    bio: 'UX/UI designer with a knack for organizing tech events.',
+    bio: 'A master of competitive programming and algorithms.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    name: 'Vishwam Modi',
+    role: 'Publicity Head',
+    image: '/images/vishwam.jpg',
+    bio: 'Bring the mentality of Cristiano to the marketing arena.',
     social: {
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com'
     }
   },
   {
-    name: 'Alex Lee',
-    role: 'Content Creator',
-    image: '/placeholder.svg?height=300&width=300',
-    bio: 'Technical writer and coding tutorial creator.',
+    name: 'Aarav Sheth',
+    role: 'Digital Marketing Head',
+    image: '/images/aarav sheth.jpg',
+    bio: 'Passionate for digital trends and innovative strategies.',
     social: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com',
@@ -57,13 +77,55 @@ const teamMembers = [
     }
   },
   {
-    name: 'Sarah Parker',
-    role: 'Outreach Coordinator',
+    name: 'Muskan Dalsania',
+    role: 'Graphic Design Head',
+    image: '/images/muskan.jpeg?height=300&width=300',
+    bio: 'Turning code into creativity.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    name: 'Moksh Lalwani',
+    role: 'Graphic Design Head',
+    image: '/images/moksh.jpg?height=200&width=300',
+    bio: 'Apassionate leader in graphic design with an eye for detail and innovation.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    name: 'Het Patel',
+    role: 'Event Management Head',
+    image: '/placeholder.svg?height=300&width=300',
+    bio: 'Bringing visions to life.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      twitter: 'https://twitter.com'
+    }
+    
+  },
+  {
+    name: 'Ansh Bhimani',
+    role: 'Advisor',
     image: '/placeholder.svg?height=300&width=300',
     bio: 'Community builder and STEM education advocate.',
     social: {
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com'
+    }
+    
+  },
+  {
+    name: 'Abhisht',
+    role: 'Advisor',
+    image: '/placeholder.svg?height=300&width=300',
+    bio: 'Cybersecurity expert and competitive programmer.',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
     }
   }
 ]
